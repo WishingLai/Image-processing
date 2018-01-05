@@ -1,0 +1,38 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\demo2\demo2\bin\Debug\demo2.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\demo2\demo2\bin\Debug\demo2.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\demo2\demo2\obj\x86\Debug\demo2.Form1.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\demo2\demo2\obj\x86\Debug\demo2.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\demo2\demo2\obj\x86\Debug\demo2.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\demo2\demo2\obj\x86\Debug\demo2.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\demo2\demo2\obj\x86\Debug\demo2.pdb
+E:\Desktop\demo2\demo2\obj\x86\Debug\demo2.exe
+E:\Desktop\demo2\demo2\obj\x86\Debug\demo2.pdb
+E:\Desktop\demo2\demo2\bin\Debug\demo2.exe
+E:\Desktop\demo2\demo2\bin\Debug\demo2.pdb
+E:\Desktop\demo2\demo2\obj\x86\Debug\demo2.Form1.resources
+E:\Desktop\demo2\demo2\obj\x86\Debug\demo2.Properties.Resources.resources
+E:\Desktop\demo2\demo2\obj\x86\Debug\demo2.csproj.GenerateResource.Cache
+C:\Users\Tom\Desktop\demo2\demo2\obj\x86\Debug\demo2.exe
+C:\Users\Tom\Desktop\demo2\demo2\obj\x86\Debug\demo2.pdb
+C:\Users\Tom\Desktop\demo2\demo2\bin\Debug\demo2.exe
+C:\Users\Tom\Desktop\demo2\demo2\bin\Debug\demo2.pdb
+C:\Users\Tom\Desktop\demo2\demo2\obj\x86\Debug\demo2.Form1.resources
+C:\Users\Tom\Desktop\demo2\demo2\obj\x86\Debug\demo2.Properties.Resources.resources
+C:\Users\Tom\Desktop\demo2\demo2\obj\x86\Debug\demo2.csproj.GenerateResource.Cache
+C:\Users\Tom\Desktop\demo2\demo2\obj\x86\Debug\demo2.csprojResolveAssemblyReference.cache
+C:\Users\張淙垣\Documents\Visual Studio 2015\Projects\第8組\demo2\obj\x86\Debug\demo2.exe
+C:\Users\張淙垣\Documents\Visual Studio 2015\Projects\第8組\demo2\obj\x86\Debug\demo2.pdb
+C:\Users\張淙垣\Documents\Visual Studio 2015\Projects\第8組\demo2\bin\Debug\demo2.exe
+C:\Users\張淙垣\Documents\Visual Studio 2015\Projects\第8組\demo2\bin\Debug\demo2.pdb
+C:\Users\張淙垣\Documents\Visual Studio 2015\Projects\第8組\demo2\obj\x86\Debug\demo2.csprojResolveAssemblyReference.cache
+C:\Users\張淙垣\Documents\Visual Studio 2015\Projects\第8組\demo2\obj\x86\Debug\demo2.Form1.resources
+C:\Users\張淙垣\Documents\Visual Studio 2015\Projects\第8組\demo2\obj\x86\Debug\demo2.Properties.Resources.resources
+C:\Users\張淙垣\Documents\Visual Studio 2015\Projects\第8組\demo2\obj\x86\Debug\demo2.csproj.GenerateResource.Cache
+C:\Users\張淙垣\Documents\Visual Studio 2015\Projects\IP_期末專題\demo2\obj\x86\Debug\demo2.exe
+C:\Users\張淙垣\Documents\Visual Studio 2015\Projects\IP_期末專題\demo2\obj\x86\Debug\demo2.pdb
+C:\Users\張淙垣\Documents\Visual Studio 2015\Projects\IP_期末專題\demo2\bin\Debug\demo2.exe
+C:\Users\張淙垣\Documents\Visual Studio 2015\Projects\IP_期末專題\demo2\bin\Debug\demo2.pdb
+C:\Users\張淙垣\Documents\Visual Studio 2015\Projects\IP_期末專題\demo2\obj\x86\Debug\demo2.csprojResolveAssemblyReference.cache
+C:\Users\張淙垣\Documents\Visual Studio 2015\Projects\IP_期末專題\demo2\obj\x86\Debug\demo2.Form1.resources
+C:\Users\張淙垣\Documents\Visual Studio 2015\Projects\IP_期末專題\demo2\obj\x86\Debug\demo2.Properties.Resources.resources
+C:\Users\張淙垣\Documents\Visual Studio 2015\Projects\IP_期末專題\demo2\obj\x86\Debug\demo2.csproj.GenerateResource.Cache
